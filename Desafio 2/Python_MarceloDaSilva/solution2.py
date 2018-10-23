@@ -5,3 +5,4 @@ def valores_ao_quadrado(inicial=2,tamanho=302):
         valores.append(i**2)
     return valores
     
+valores_ao_quadrado()
