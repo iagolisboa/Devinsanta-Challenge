@@ -43,7 +43,7 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
 * Desafio 2
 
   * [Python - Gabriel Cesar](https://github.com/gabrielcesar/Devinsanta-Challenge/tree/master/Desafio%202/python_gabrielcesar)
-
+  * [JavaScript - Marcelo Figueira](https://github.com/MarceloFigueira/Devinsanta-Challenge/blob/master/Desafio%202/jsmarcelofigueira/jsdesafio2)
 
 * Desafio 3
 
