@@ -1,0 +1,7 @@
+var desafio2 = function(){
+    for (var i = 2; i <= 300; i++){
+        const quadrado = Math.pow(i,2);
+        console.log(quadrado);
+    }
+}
+desafio2();
