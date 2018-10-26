@@ -31,6 +31,7 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
   * [Go Lang - Inácio Régis Neto](https://github.com/inacio/Devinsanta-Challenge/blob/master/Desafio%201/Go-Inacio/main.go)
   * [PHP - Inácio Régis Neto](https://github.com/inacio/Devinsanta-Challenge/blob/master/Desafio%201/PHP_Inacio/desafio1.php)
   * [Python - Gabriel Cesar](https://github.com/gabrielcesar/Devinsanta-Challenge/tree/master/Desafio%201/python_gabrielcesar)
+  * [Python - Inácio Régis Neto](https://github.com/inacio/Devinsanta-Challenge/blob/master/Desafio%201/Python_Inacio/main.py)
   * [Python - Iago Lisboa](https://github.com/iagolisboa/Devinsanta-Challenge/blob/master/Desafio%201/Python_IagoLisboa/challenge1.py)
   * [C - Gabriel Cesar](https://github.com/gabrielcesar/Devinsanta-Challenge/tree/master/Desafio%201/c_gabrielcesar)
   * [JavaScript - Marcelo Figueira](https://github.com/MarceloFigueira/Devinsanta-Challenge/blob/master/Desafio%201/js_marcelofigueira/desafio1.js)
@@ -44,9 +45,13 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
 
   * [Python - Gabriel Cesar](https://github.com/gabrielcesar/Devinsanta-Challenge/tree/master/Desafio%202/python_gabrielcesar)
   * [JavaScript - Marcelo Figueira](https://github.com/MarceloFigueira/Devinsanta-Challenge/blob/master/Desafio%202/jsmarcelofigueira/jsdesafio2)
+  * [Python - Iago Lisboa](https://github.com/iagolisboa/Devinsanta-Challenge/blob/master/Desafio%202/Python_IagoLisboa/challenge2)
+  * [Go Lang - Inácio Régis Neto](https://github.com/inacio/Devinsanta-Challenge/blob/master/Desafio%202/Go_Inacio/desafio2.go)  
+  * [Python - Marcelo da Silva](https://github.com/marcelodasilva/Devinsanta-Challenge/blob/master/Desafio%202/Python_MarceloDaSilva/solution2.py)
 
 * Desafio 3
 
   * [Python - Gabriel Cesar](https://github.com/gabrielcesar/Devinsanta-Challenge/tree/master/Desafio%203/python_gabrielcesar)
-
-
+  * [Python - Iago Lisboa](https://github.com/iagolisboa/Devinsanta-Challenge/blob/master/Desafio%203/Python_IagoLisboa/Challenge3)
+  * [Go Lang - Inácio Régis Neto](https://github.com/inacio/Devinsanta-Challenge/blob/master/Desafio%203/Go_Inacio/desafio3.go)
+  * [Python - Marcelo da Silva](https://github.com/marcelodasilva/Devinsanta-Challenge/blob/master/Desafio%203/Python_MarceloDaSilva/solution3.py)
