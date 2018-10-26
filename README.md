@@ -54,3 +54,7 @@ Junto com o PR não esqueça de adicionar o seu nome neste arquivo na sessão de
   * [Python - Iago Lisboa](https://github.com/iagolisboa/Devinsanta-Challenge/blob/master/Desafio%203/Python_IagoLisboa/Challenge3)
   * [Go Lang - Inácio Régis Neto](https://github.com/inacio/Devinsanta-Challenge/blob/master/Desafio%203/Go_Inacio/desafio3.go)
 
+* Desafio 2
+  * [Python - Marcelo da Silva](https://github.com/marcelodasilva/Devinsanta-Challenge/blob/master/Desafio%202/Python_MarceloDaSilva/solution2.py)
+* Desafio 3
+  * [Python - Marcelo da Silva](https://github.com/marcelodasilva/Devinsanta-Challenge/blob/master/Desafio%203/Python_MarceloDaSilva/solution3.py)
